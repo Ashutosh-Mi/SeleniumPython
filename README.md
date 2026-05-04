@@ -47,7 +47,9 @@ page objects → base page → selenium actions
 ## 📁 Project Structure
 
 selenium_framework/
+
 │
+
 ├── config/
 
 ├── drivers/
