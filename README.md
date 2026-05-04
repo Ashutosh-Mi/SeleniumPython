@@ -11,7 +11,9 @@ It follows industry best practices like Page Object Model (POM), Driver Factory,
 ## 🧱 Framework Architecture
 
 tests → conftest → driver factory → config → browser
+
 ↓
+
 page objects → base page → selenium actions
 
 ---
@@ -47,13 +49,21 @@ page objects → base page → selenium actions
 selenium_framework/
 │
 ├── config/
+
 ├── drivers/
+
 ├── pages/
+
 ├── utils/
+
 ├── tests/
+
 ├── testdata/
+
 ├── logs/
+
 ├── screenshots/
+
 ├── conftest.py
 
 ---
@@ -105,4 +115,4 @@ This framework is integrated with GitHub Actions:
 
 ## 👨‍💻 Author
 
-[Your Name]
+[Ashutosh Mishra]
