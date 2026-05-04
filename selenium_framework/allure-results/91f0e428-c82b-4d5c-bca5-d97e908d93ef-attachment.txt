@@ -1,0 +1,4 @@
+[32mINFO    [0m test_login_bsic:test_login_bsic.py:94 Starting test with user: tomsmith
+[32mINFO    [0m test_login_bsic:test_login_bsic.py:101 Entering username and password
+[32mINFO    [0m test_login_bsic:test_login_bsic.py:108 Received message: You logged into a secure area!
+×

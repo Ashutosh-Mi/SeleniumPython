@@ -1,0 +1,2 @@
+[32mINFO    [0m test_login_bsic:test_login_bsic.py:94 Starting test with user: wronguser
+[32mINFO    [0m test_login_bsic:test_login_bsic.py:101 Entering username and password

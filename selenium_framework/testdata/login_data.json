@@ -1,0 +1,27 @@
+[
+  {
+    "username": "tomsmith",
+    "password": "SuperSecretPassword!",
+    "expected": "You logged into a secure area!"
+  },
+  {
+    "username": "wronguser",
+    "password": "wrongpass",
+    "expected": "Your username is invalid!"
+  },
+   {
+    "username": "ashu",
+    "password": "wrongpass",
+    "expected": "You logged into a secure area!"
+  },
+  {
+    "username": "tomsmith",
+    "password": "SuperSecretPassword!",
+    "expected": "You logged into a secure area!"
+  },
+  {
+    "username": "ashu",
+    "password": "Password!",
+    "expected": "Your username is invalid!"
+  }
+]

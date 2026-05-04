@@ -1,0 +1,5 @@
+{
+  "browser": "firefox",
+  "base_url": "https://the-internet.herokuapp.com/login",
+  "implicit_wait": 10
+}
